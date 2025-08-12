@@ -13,7 +13,7 @@
     "order_types": ["taxi"],
     "schedule": null,
     "price_coefficient": "1.20",
-    "photo_urls": ["https://github.com/artemaka/api/raw/75094f05f48cf5a836c113be09b4c7308abada49/ferryphtoto"],
+    "photo_urls": ["https://github.com/artemaka/api/raw/75094f05f48cf5a836c113be09b4c7308abada49/ferryphtoto"],    
     "photo_version": null,
     "description": null,
     "model": null,
